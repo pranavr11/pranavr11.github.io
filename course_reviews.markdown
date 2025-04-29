@@ -14,7 +14,7 @@ Spring 2025
 - **21-241: Matrices and Linear Transformations**
   Prof. Simone's teaching style made topics extremely understandable. A very solid linear algebra course. 
 - **85-211: Cognitive Psychology**
-  A low work gen ed that shared significant content with AP Psychology. Attendance not required, open-Google exams. 
+  A low work gen ed that shared significant content with AP Psychology.
 
 <br>
 
