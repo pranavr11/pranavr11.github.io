@@ -4,12 +4,11 @@ title: Course Reviews
 permalink: /courses/
 ---
 
-# **Course Reviews: First Semester**  
+Fall 2024
 
-## **Computer Science & Math Courses**  
 
-- **15-122: Principles of Imperative Computation**  
-  *[Your review text goes here. Discuss the course difficulty, workload, professor, and overall experience.]*  
+- **15-122: Principles of Imperative Computation**
+  The classic introduction to computer science at CMU. While there's already a lot of information about the course online, little has been shared about its new checkin system. 
 
 <br>
 
