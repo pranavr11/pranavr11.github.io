@@ -6,7 +6,7 @@ permalink: /courses/
 
 Spring 2025
 - **15-150: Functional Programming**
-  A recursion-heavy, "mathy" version of 15-122. Introduces the idea of functional programming -- a fundamentally different perspective on how one codes. Much cleaner than 15-122 and extremely enjoyable. Each homework assignment functions as a set of short puzzles, with elegant solutions usually 8-10 lines in length. 
+  A recursion-heavy, "mathy" parallel to 15-122. Introduces the idea of functional programming -- a fundamentally different perspective on how one codes. Much cleaner than 15-122 and extremely enjoyable. Each homework assignment functions as a set of short puzzles, with elegant solutions usually 8-10 lines in length. 
 - **15-251: Great Theoretical Ideas in Computer Science**
   Fantastically taught class. Amazing TAs, textbook, lectures, you name it. Despite being a 200-level CS Core, this functions as an intro course to the many aspects of theoretical computer science that one can study at CMU. Each week or two will introduce a new aspect of CS theory, building upon previous topics and a fundamental basis of problem solving. We covered graph theory, complexity theory, probability, and randomized algorithms, to name a few modules. The most fun course I've taken at CMU. 
 - **15-213: Introduction to Computer Systems**
@@ -37,14 +37,13 @@ Fall 2024
   This iteration of Concepts was taught by Clive Newstead (author of the course textbook), fantastic lecturer. I did not have much exposure to the course material in high scoool, so this course was a fun introduction to set and number theory. 
 
 - **76-101: Interpretation and Argument**
-  Standard college writing. CMU does not accepts AP Lit or Lang credit. I did not enjoy this course, but to each their own.
+  Standard college writing. 
 
 - **99-101: Computing @ Carnegie Mellon**
   A tedious online course (about what, I couldn't tell you).
   
 - **66-147: Mistrust in Research**
-Almost entirely group based, aimed at having each group complete a literature review by the end of the semeter.
-I have a distinct memory of the professors chuckling in class after handing out surprisingly harsh grades on the first of four large phases. I am yet to speak to anybody who enjoyed this course. 
+A group based course aimed at having each group complete a literature review by the end of the semeter.
 
 - **80-100 - Introduction to Philosophy**
   An interesting and stimulating overview of the main ideas / contributors in the field of philosophy. This class consisted of a weekly reading, discussion, and writing assignment, with essays interspersed throughout the semeter. I particularly enjoyed the discussions and would recommend to anyone interested in philosophy. 
