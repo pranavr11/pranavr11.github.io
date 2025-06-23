@@ -51,6 +51,5 @@ A group based course aimed at having each group complete a literature review by 
 
 ---
 
-*Feel free to add more courses as needed!*  
 
 
