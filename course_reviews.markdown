@@ -4,6 +4,33 @@ title: Course Reviews
 permalink: /courses/
 ---
 
+Fall 2026
+- **15-418: Parallel Computer Architecture and Programming**
+- **18-240: Structure and Design of Digital Systems**
+- **15-414: Bug Catching: Automated Program Verification**
+- **84-405: Future of Warfare**
+- **05-391: Designing Human-Centered Software**
+
+<br>
+
+Spring 2026
+- **10-701: PhD Intro to Machine Learning**
+- **15-411: Compilers**
+- **16-299: Introduction to Feedback Control Systems**
+- **16-385: Introduction to Computer Vision**
+- **82-279: Anime - Visual Interplay between Japan and the World**
+- **15-442: Machine Learning Systems**
+
+<br>
+
+Fall 2025
+- **11-785: PhD Intro to Deep Learning**
+- **16-220: Robot Building Practices**
+- **15-259: Probability and Computing**
+- **15-210: Parallel and Sequential Data Structures and Algorithms**
+
+<br>
+
 Spring 2025
 - **15-150: Functional Programming**
   A recursion-heavy, "mathy" parallel to 15-122. Introduces the idea of functional programming -- a fundamentally different perspective on how one codes. Much cleaner than 15-122 and extremely enjoyable. Each homework assignment functions as a set of short puzzles, with elegant solutions usually 8-10 lines in length. 

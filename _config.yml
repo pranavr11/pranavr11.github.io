@@ -24,13 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog serves as a collection of my CMU course reviews and interesting research paper summaries.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 theme: minima
+header_pages:
+  - index.markdown
+  - course_reviews.markdown
+  - projects.markdown
+  - papers.markdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
